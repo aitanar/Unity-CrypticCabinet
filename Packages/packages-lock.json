@@ -22,7 +22,7 @@
       "hash": "075b8f0e1641bc6cacef05a57f25e82b985cb4bb"
     },
     "com.meta.xr.sdk.core": {
-      "version": "60.0.0",
+      "version": "62.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
